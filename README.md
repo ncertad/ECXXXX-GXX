@@ -1,4 +1,4 @@
-# Título del Repositorio
+# <Título del Repositorio>
 Este repositorio es una plantilla para ser usada en la materia ECXXXX. Modifique el contenido de esta plantilla para adaptarlo a su proyecto manteniendo la estructura de carpetas que se explica en [Estructura del repositorio](#Estructura-del-repositorio).
 
 ## Integrantes del equipo
@@ -17,4 +17,7 @@ En la carpeta firmware/ deben colocarse los archivos relevantes del código que 
 
 ### Software/
 En el caso de que el proyecto incluya desarrollo de software para PC (MATLAB, Python, LabVIEW, etc) el código/proyecto respectivo debe ir dentro de este directorio.
+
+## Instrucciones para usar la plantilla
+* Clone este repositorio
 
